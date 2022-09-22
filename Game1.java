@@ -42,16 +42,7 @@ class Game {
 
 public class Game1 {
     public static void main(String[] args) {
-        /*
-         * create a class which allows a user to play "guess the number" game once
-         * game should have following methods
-         * 1. constructor to generate the random number
-         * 2. takeUserInput() to take a number user input number
-         * 3. isCorrectNumber() detect wther a number is entered by the user is true/
-         * false
-         * 4. geeter and setter for noOfGuesses
-         * Use peroperties such as numberOfGuess(int), etc to get thois task done!
-         */
+        
 
         Game g = new Game();
         boolean b = false;
